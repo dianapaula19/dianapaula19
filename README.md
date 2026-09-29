@@ -38,6 +38,13 @@ a pipeline that finds gaming creators across ten European markets, built over a 
   <img src="https://raw.githubusercontent.com/dianapaula19/dianapaula19.github.io/main/assets/wally.png" width="49%" alt="Where's Wally">
 </p>
 
+### 🌊 Other projects
+
+| Project | |
+|---|---|
+| [**Operation N.U.R.D.L.E.S**](https://github.com/dianapaula19/ulisses-2025-project) (MSc, Aalto University) | ULISSES 2025: simulating where plastic pellets drift after a spill at sea with OpenDrift and Copernicus ocean data, for the 2022 *Toconao* spill in Galicia and a hypothetical spill in the Ross Sea; with a [mission-style website](https://dianapaula19.github.io/ulisses-2025-project/) (React, Tailwind) |
+| [**Zara Fashion: what's your style?**](https://github.com/dianapaula19/zara-fashion-app) (high school) | Android style quiz: six questions, and it tells you whether your style is bohemian, casual, chic or vintage. Made for my high-school Computer Science certification exam |
+
 ### 🌍 Open source
 
 - [**VoteMonitor**](https://github.com/commitglobal/votemonitor) (Commit Global): election observation platform; [forgot-password screen](https://github.com/commitglobal/votemonitor/pull/1031)
