@@ -13,9 +13,9 @@ a pipeline that finds gaming creators across ten European markets, built over a 
 
 | Project | |
 |---|---|
-| **MSc thesis** (Aalto): [*Multiclass classification of neurological disorders from speech in noisy and reverberant conditions*](https://aaltodoc.aalto.fi/items/f7a211df-0bbe-4d45-93e8-dcb0a0ef06da) | Tells healthy voices apart from spasmodic dysphonia and recurrent laryngeal nerve palsy (Saarbrücken Voice Database), and studies how the MFCC-based classifier degrades under noise and room reverberation, and how multi-condition training helps |
-| [**Intoxicated speech detection**](https://github.com/dianapaula19/intoxicated-speech-detection) (MSc, Aalto) | CNN on MFCCs from the Alcohol Language Corpus, evaluated on unseen speakers with UAR |
-| [**LP speech codec**](https://github.com/dianapaula19/speech-processing-project) (MSc, Aalto) | Linear-prediction codec from scratch: lattice quantization and a regular-pulse residual, 128 → 9.4 kbit/s |
+| **MSc thesis** (Aalto University): [*Multiclass classification of neurological disorders from speech in noisy and reverberant conditions*](https://aaltodoc.aalto.fi/items/f7a211df-0bbe-4d45-93e8-dcb0a0ef06da) | Tells healthy voices apart from spasmodic dysphonia and recurrent laryngeal nerve palsy (Saarbrücken Voice Database), and studies how the MFCC-based classifier degrades under noise and room reverberation, and how multi-condition training helps |
+| [**Intoxicated speech detection**](https://github.com/dianapaula19/intoxicated-speech-detection) (MSc, Aalto University) | CNN on MFCCs from the Alcohol Language Corpus, evaluated on unseen speakers with UAR |
+| [**LP speech codec**](https://github.com/dianapaula19/speech-processing-project) (MSc, Aalto University) | Linear-prediction codec from scratch: lattice quantization and a regular-pulse residual, 128 → 9.4 kbit/s |
 | [**Automatic misogyny identification**](https://github.com/dianapaula19/ami-ai-project) (BSc, University of Bucharest) | Classifying Italian tweets with TF-IDF, logistic regression and a voting ensemble (88% accuracy) |
 | [**Rain prediction in Australia**](https://github.com/dianapaula19/rain-prediction-australia) (Erasmus, Maltepe University) | Seven classifiers compared on 140k days of Australian weather data |
 
