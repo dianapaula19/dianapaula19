@@ -1,8 +1,8 @@
 # Hi, I'm Diana 👋
 
-**Software engineer at [F-Secure](https://www.f-secure.com/) in Helsinki**, doing my master's
-thesis at Aalto University on **speech technology**: teaching models to hear what a voice
-says about the person behind it.
+**Software engineer at [F-Secure](https://www.f-secure.com/) in Helsinki** with a master's from
+Aalto University, where I wrote my thesis on **speech technology**: teaching models to hear what
+a voice says about the person behind it.
 
 I like building things end to end: a Django + React platform that assigns university electives,
 a speech codec written from scratch, a claw machine made of Lego and two Arduinos. Most recently,
@@ -57,7 +57,7 @@ a pipeline that finds gaming creators across ten European markets, built over a 
 [Object-oriented programming](https://github.com/dianapaula19/oop-course) ·
 [Operating systems](https://github.com/dianapaula19/operating-systems-course) ·
 [Hardware modelling](https://github.com/dianapaula19/hardware-modelling-course) ·
-BSc Computer Science, University of Bucharest · MSc (in progress), Aalto University
+BSc Computer Science, University of Bucharest · MSc, Aalto University
 
 ---
 
