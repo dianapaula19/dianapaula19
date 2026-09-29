@@ -56,6 +56,8 @@ a pipeline that finds gaming creators across ten European markets, built over a 
 |---|---|
 | [**Operation N.U.R.D.L.E.S**](https://github.com/dianapaula19/ulisses-2025-project) (MSc, Aalto University) | ULISSES 2025: simulating where plastic pellets drift after a spill at sea with OpenDrift and Copernicus ocean data, for the 2022 *Toconao* spill in Galicia and a hypothetical spill in the Ross Sea; with a [mission-style website](https://dianapaula19.github.io/ulisses-2025-project/) (React, Tailwind) |
 | [**Zara Fashion: what's your style?**](https://github.com/dianapaula19/zara-fashion-app) ✋ (high school) | Android style quiz: six questions, and it tells you whether your style is bohemian, casual, chic or vintage. Made for my high-school Computer Science certification exam |
+| [**Quiz App**](https://github.com/dianapaula19/quiz-app) ✋ (Udacity scholarship) | Android app with two quizzes: Marvel trivia with animated GIF answers, and a basic French test. Made for the *Google Developer Challenge Scholarship* (Android Basics, Udacity), January 2018 |
+| [**Score Keeper: Quidditch edition**](https://github.com/dianapaula19/score-keeper-app) ✋ (Udacity scholarship) | Android scoreboard for Gryffindor vs Slytherin: +10 per goal, +150 for the Golden Snitch, then it announces the winner. Made for the *Google Developer Challenge Scholarship* (Android Basics, Udacity), December 2017 |
 
 ### 🌍 Open source
 
