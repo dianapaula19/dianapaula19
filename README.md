@@ -1,8 +1,7 @@
 # Hi, I'm Diana 👋
 
-**Software engineer at [F-Secure](https://www.f-secure.com/) in Helsinki** with a master's from
-Aalto University, where I wrote my thesis on **speech technology**: teaching models to hear what
-a voice says about the person behind it.
+**Software engineer at [F-Secure](https://www.f-secure.com/) in Helsinki**, with a master's from
+Aalto University and a soft spot for **speech technology**.
 
 I like building things end to end: a Django + React platform that assigns university electives,
 a speech codec written from scratch, a claw machine made of Lego and two Arduinos. Most recently,
