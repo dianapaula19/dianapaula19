@@ -15,8 +15,8 @@ a pipeline that finds gaming creators across ten European markets, built over a 
 | Project | |
 |---|---|
 | **Master's thesis** (Aalto) | Voice disorder classification (healthy / spasmodic dysphonia / recurrent laryngeal nerve palsy) on the Saarbrücken Voice Database, and how it degrades under noise and reverberation. MFCC statistics, NCA feature selection, speaker-independent cross-validation, multi-condition training |
-| **Intoxicated speech detection** | CNN on MFCCs from the Alcohol Language Corpus, evaluated on unseen speakers with UAR |
-| **LP speech codec** | Linear-prediction codec from scratch: lattice quantization and a regular-pulse residual, 128 → 9.4 kbit/s |
+| **Intoxicated speech detection** (ELEC-E5510 Speech Recognition) | CNN on MFCCs from the Alcohol Language Corpus, evaluated on unseen speakers with UAR |
+| **LP speech codec** (ELEC-E5522 Speech Processing Project) | Linear-prediction codec from scratch: lattice quantization and a regular-pulse residual, 128 → 9.4 kbit/s |
 | [**Automatic misogyny identification**](https://github.com/dianapaula19/ami-ai-project) | Classifying Italian tweets with TF-IDF, logistic regression and a voting ensemble (88% accuracy) |
 | [**Rain prediction in Australia**](https://github.com/dianapaula19/rain-prediction-australia) | Seven classifiers compared on 140k days of Australian weather data |
 
