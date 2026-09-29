@@ -1,8 +1,7 @@
 # Hi, I'm Diana 👋
 
-**Software engineer at [F-Secure](https://www.f-secure.com/) in Helsinki** with a master's from
-Aalto University, where I wrote my thesis on **speech technology**: teaching models to hear what
-a voice says about the person behind it.
+**Software engineer at [F-Secure](https://www.f-secure.com/) in Helsinki**, with a master's from
+Aalto University ([read my thesis](https://aaltodoc.aalto.fi/items/f7a211df-0bbe-4d45-93e8-dcb0a0ef06da)) and a soft spot for **speech technology**.
 
 I like building things end to end: a Django + React platform that assigns university electives,
 a speech codec written from scratch, a claw machine made of Lego and two Arduinos. Most recently,
@@ -14,9 +13,9 @@ a pipeline that finds gaming creators across ten European markets, built over a 
 
 | Project | |
 |---|---|
-| **Master's thesis** (Aalto) | Voice disorder classification (healthy / spasmodic dysphonia / recurrent laryngeal nerve palsy) on the Saarbrücken Voice Database, and how it degrades under noise and reverberation. MFCC statistics, NCA feature selection, speaker-independent cross-validation, multi-condition training |
-| **Intoxicated speech detection** (ELEC-E5510 Speech Recognition) | CNN on MFCCs from the Alcohol Language Corpus, evaluated on unseen speakers with UAR |
-| **LP speech codec** (ELEC-E5522 Speech Processing Project) | Linear-prediction codec from scratch: lattice quantization and a regular-pulse residual, 128 → 9.4 kbit/s |
+| [**Master's thesis**](https://aaltodoc.aalto.fi/items/f7a211df-0bbe-4d45-93e8-dcb0a0ef06da) (Aalto) | Published in Aaltodoc |
+| [**Intoxicated speech detection**](https://github.com/dianapaula19/intoxicated-speech-detection) (Aalto) | CNN on MFCCs from the Alcohol Language Corpus, evaluated on unseen speakers with UAR |
+| [**LP speech codec**](https://github.com/dianapaula19/speech-processing-project) (Aalto) | Linear-prediction codec from scratch: lattice quantization and a regular-pulse residual, 128 → 9.4 kbit/s |
 | [**Automatic misogyny identification**](https://github.com/dianapaula19/ami-ai-project) | Classifying Italian tweets with TF-IDF, logistic regression and a voting ensemble (88% accuracy) |
 | [**Rain prediction in Australia**](https://github.com/dianapaula19/rain-prediction-australia) | Seven classifiers compared on 140k days of Australian weather data |
 
