@@ -13,19 +13,19 @@ a pipeline that finds gaming creators across ten European markets, built over a 
 
 | Project | |
 |---|---|
-| **Master's thesis** (Aalto): [*Multiclass classification of neurological disorders from speech in noisy and reverberant conditions*](https://aaltodoc.aalto.fi/items/f7a211df-0bbe-4d45-93e8-dcb0a0ef06da) | Tells healthy voices apart from spasmodic dysphonia and recurrent laryngeal nerve palsy (Saarbrücken Voice Database), and studies how the MFCC-based classifier degrades under noise and room reverberation, and how multi-condition training helps |
-| [**Intoxicated speech detection**](https://github.com/dianapaula19/intoxicated-speech-detection) (Aalto) | CNN on MFCCs from the Alcohol Language Corpus, evaluated on unseen speakers with UAR |
-| [**LP speech codec**](https://github.com/dianapaula19/speech-processing-project) (Aalto) | Linear-prediction codec from scratch: lattice quantization and a regular-pulse residual, 128 → 9.4 kbit/s |
-| [**Automatic misogyny identification**](https://github.com/dianapaula19/ami-ai-project) (University of Bucharest) | Classifying Italian tweets with TF-IDF, logistic regression and a voting ensemble (88% accuracy) |
+| **MSc thesis** (Aalto): [*Multiclass classification of neurological disorders from speech in noisy and reverberant conditions*](https://aaltodoc.aalto.fi/items/f7a211df-0bbe-4d45-93e8-dcb0a0ef06da) | Tells healthy voices apart from spasmodic dysphonia and recurrent laryngeal nerve palsy (Saarbrücken Voice Database), and studies how the MFCC-based classifier degrades under noise and room reverberation, and how multi-condition training helps |
+| [**Intoxicated speech detection**](https://github.com/dianapaula19/intoxicated-speech-detection) (MSc, Aalto) | CNN on MFCCs from the Alcohol Language Corpus, evaluated on unseen speakers with UAR |
+| [**LP speech codec**](https://github.com/dianapaula19/speech-processing-project) (MSc, Aalto) | Linear-prediction codec from scratch: lattice quantization and a regular-pulse residual, 128 → 9.4 kbit/s |
+| [**Automatic misogyny identification**](https://github.com/dianapaula19/ami-ai-project) (BSc, University of Bucharest) | Classifying Italian tweets with TF-IDF, logistic regression and a voting ensemble (88% accuracy) |
 | [**Rain prediction in Australia**](https://github.com/dianapaula19/rain-prediction-australia) (Erasmus, Maltepe University) | Seven classifiers compared on 140k days of Australian weather data |
 
 ### 🛠️ Things I've built
 
-During my bachelor's at the University of Bucharest.
+*BSc, University of Bucharest*
 
 | Project | Stack |
 |---|---|
-| [**Elective course selection platform**](https://github.com/dianapaula19/graduation-project): bachelor's thesis; students rank electives, seats are assigned by grade | Django REST, React, TypeScript, Redux |
+| [**Elective course selection platform**](https://github.com/dianapaula19/graduation-project): BSc thesis; students rank electives, seats are assigned by grade | Django REST, React, TypeScript, Redux |
 | [**Where's Wally? Social Distancing Edition**](https://github.com/dianapaula19/wheres-wally-game): point-and-click game | C++, OpenGL |
 | [**Squid Game web app**](https://github.com/dianapaula19/squid-game-web-app): players and guards, JWT auth | ASP.NET Core, EF Core, React |
 | [**TV series tracker**](https://github.com/dianapaula19/tv-series-tracking-web-app): track episodes, stats, friends and binge-watch challenges | Java, Spring Boot, Vaadin |
