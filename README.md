@@ -13,9 +13,11 @@ a pipeline that finds gaming creators across ten European markets, built over a 
 
 | Role | Company | Location | |
 |---|---|---|---|
-| **Software Engineer** | [F-Secure](https://www.f-secure.com/) | Helsinki, Finland | Mar 2026 – present |
-| **Frontend Developer** | [Cadentia Technologies](https://www.cadentia.ai/) | Helsinki, Finland | Oct 2024 – Mar 2026 |
-| **Software Engineer, Azure DevOps** | [Microsoft](https://www.microsoft.com/) | Prague, Czech Republic | Oct 2022 – Sep 2024 |
+| **Software Engineer** | [F-Secure](https://www.f-secure.com/) | 🇫🇮 Helsinki, Finland | Mar 2026 – present |
+| **Frontend Developer** | [Cadentia Technologies](https://www.cadentia.ai/) | 🇫🇮 Helsinki, Finland | Oct 2024 – Mar 2026 |
+| **Software Engineer, Azure DevOps** | [Microsoft](https://www.microsoft.com/) | 🇨🇿 Prague, Czech Republic | Oct 2022 – Sep 2024 |
+| **Software Developer Intern** | [IBM](https://www.ibm.com/) | 🇷🇴 Bucharest, Romania | Oct 2021 – Dec 2021 |
+| **Software Engineer Intern** | [Adobe](https://www.adobe.com/) | 🇷🇴 Bucharest, Romania | Jul 2021 – Sep 2021 |
 
 ### 🎙️ Speech & machine learning
 
