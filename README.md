@@ -17,7 +17,7 @@ a pipeline that finds gaming creators across ten European markets, built over a 
 | [**Intoxicated speech detection**](https://github.com/dianapaula19/intoxicated-speech-detection) (Aalto) | CNN on MFCCs from the Alcohol Language Corpus, evaluated on unseen speakers with UAR |
 | [**LP speech codec**](https://github.com/dianapaula19/speech-processing-project) (Aalto) | Linear-prediction codec from scratch: lattice quantization and a regular-pulse residual, 128 → 9.4 kbit/s |
 | [**Automatic misogyny identification**](https://github.com/dianapaula19/ami-ai-project) | Classifying Italian tweets with TF-IDF, logistic regression and a voting ensemble (88% accuracy) |
-| [**Rain prediction in Australia**](https://github.com/dianapaula19/rain-prediction-australia) | Seven classifiers compared on 140k days of Australian weather data |
+| [**Rain prediction in Australia**](https://github.com/dianapaula19/rain-prediction-australia) (Erasmus, Maltepe University) | Seven classifiers compared on 140k days of Australian weather data |
 
 ### 🛠️ Things I've built
 
